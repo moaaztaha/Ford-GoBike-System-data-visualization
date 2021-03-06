@@ -26,7 +26,8 @@
 ## Key Insights for Presentation
 
 1. The ratio of rides made by subscribers vs customers.
-2. Why does the subscribers have shorter rides than customers?
+2. Subscribers have shorter ride durations than Customers.
 3. The stations that have high number of rides starting at it also have high number of rides ending at it.
-4. How the number of rides is affected by the week day for subscribers and customers
-5. How the number of rides is affected by the hour of the day for subscribers and customers
+4. How the number of rides is affected by the hour of the day for subscribers and customers
+5. How the number of rides is affected by the week day for subscribers and customers
+6. Customers ride durations are more varied while Subscribers durations are consistent.
